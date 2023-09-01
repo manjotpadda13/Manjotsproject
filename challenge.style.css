@@ -1,0 +1,123 @@
+
+ body{
+
+
+ }
+ 
+ 
+ 
+ header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: rgb(58, 54, 54);
+    color:grey;
+    padding-bottom: 80px;
+    padding-left: 40px;
+  
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+   
+  }
+
+  nav a {
+    color: lightskyblue;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+ h3{
+background-color: lightslategray;
+padding-bottom: 20px;
+padding-top:20px;
+text-align: right;
+background-image: url(./striped-pattern\ .jpeg);
+
+}
+
+
+  main article aside p{
+
+
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  text-align: left;
+  }
+
+ 
+
+  section h2{
+    display: block;
+    
+}
+
+.box-container1{
+  border: solid cornflowerblue;
+  flex-direction: column;
+  background-image: url(./led\ wall.jpeg);
+  color: white;
+}
+
+.box-container2{
+  display: flex;
+  border: solid cornflowerblue;
+  background-image: url(./calculator-photo-209224.jpeg);
+  color: white;
+}
+
+.box-container3{
+  display: flex;
+  border: solid cornflowerblue;
+  background-image: url(./pastel.puzzle.jpeg);
+  color: white;
+
+}
+.box-container4{
+  display: flex;
+  border: solid cornflowerblue;
+  background-image: url(./run-buddy.jpeg);
+  color: white;
+
+}
+h2{
+  display: block;
+  
+}
+
+footer aside{
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  text-align: left;
+
+}
+
+  footer a{
+    color: lightskyblue;
+    font-weight: bold;
+    text-decoration: underline;
+
+  }
+
+footer{
+
+display: flex;
+justify-content: space-between;
+    align-items: right;
+    color:grey;
+    padding-bottom: 60px;
+    padding-left: 80px;
+  
+}
+
+ 
